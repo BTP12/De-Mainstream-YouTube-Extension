@@ -1,9 +1,9 @@
-# Notes about this fork
+# INFORMATION ABOUT THIS FORK
 This is my fork of the De-Mainstream extension which fixes the CSS of the "Daily Popular Videos" button that was added. Before, the button looked out of place, especially when YouTube's native Dark theme was active. I replaced the color values with YouTube's own, which are variables (such as "var(--yt-spec-text-primary)") that automatically update with the theme selection, and match the colors of the other buttons (Home, Trending, Subscriptions).
 
 Note that this fix is still in development.
 
-# ORIGINAL DESCRIPTION:
+### ORIGINAL DESCRIPTION:
 
 # De-Mainstream YouTube™ - Extension
 
