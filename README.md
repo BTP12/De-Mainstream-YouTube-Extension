@@ -3,7 +3,11 @@ This is my fork of the De-Mainstream extension which fixes the CSS of the "Daily
 
 Note that this fix is still in development.
 
+
+
+
 ### ORIGINAL DESCRIPTION:
+
 
 # De-Mainstream YouTube™ - Extension
 
